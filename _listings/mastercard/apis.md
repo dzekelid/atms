@@ -40,7 +40,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
@@ -51,7 +51,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
@@ -62,7 +62,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
@@ -73,7 +73,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
@@ -84,7 +84,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
@@ -95,7 +95,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
@@ -106,7 +106,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
@@ -117,7 +117,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
@@ -128,7 +128,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
@@ -139,7 +139,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
@@ -150,7 +150,7 @@ apis:
     210 countries and territories
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png
   humanURL: https://developer.mastercard.com/
-  baseURL: https://developer.mastercard.com/
+  baseURL: :///
   tags: ATMs
   properties:
   - type: x-openapi-spec
