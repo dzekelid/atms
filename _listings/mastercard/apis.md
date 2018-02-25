@@ -1,5 +1,4 @@
 ---
----
 name: MasterCard
 description: As a critical link among financial institutions and millions of businesses,
   cardholders and merchants worldwide, MasterCard provides services in more than 210
@@ -52,6 +51,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
