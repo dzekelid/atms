@@ -12,10 +12,9 @@ x-kinRank: "8"
 x-alexaRank: "11016"
 tags:
 - UK Banks
-- New
 - ATMs
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-13"
+modified: "2018-03-13"
 url: https://raw.githubusercontent.com/streamdata-gallery/atms/master/_listings/santander-bank/apis.yaml
 specificationVersion: "0.14"
 apis:
