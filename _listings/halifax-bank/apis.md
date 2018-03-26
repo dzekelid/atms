@@ -10,9 +10,9 @@ x-alexaRank: ""
 tags:
 - UK Banks
 - ATMs
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/atms/master/_listings/halifax-bank/apis.yaml
+created: "2018-03-26"
+modified: "2018-03-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/halifax-bank/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Halifax Bank
@@ -24,7 +24,7 @@ apis:
   tags: ATMs
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/atms/master/_listings/halifax-bank/atms-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/halifax-bank/atms-get.md
 x-common:
 - type: x-developer
   url: http://openbankingapis.io/uk/halifax
