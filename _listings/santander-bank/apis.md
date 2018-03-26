@@ -13,9 +13,9 @@ x-alexaRank: "11016"
 tags:
 - UK Banks
 - ATMs
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/atms/master/_listings/santander-bank/apis.yaml
+created: "2018-03-26"
+modified: "2018-03-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/santander-bank/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Santander Bank
@@ -26,7 +26,7 @@ apis:
   tags: ATMs
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/atms/master/_listings/santander-bank/atms-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/santander-bank/atms-get.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/santander-bank-2
