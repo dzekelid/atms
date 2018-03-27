@@ -12,9 +12,9 @@ tags:
 - UK Banks
 - UK Bank
 - ATMs
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/atms/master/_listings/bank-of-ireland/apis.yaml
+created: "2018-03-27"
+modified: "2018-03-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/bank-of-ireland/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Bank of Ireland
@@ -27,7 +27,7 @@ apis:
   tags: ATMs
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/atms/master/_listings/bank-of-ireland/atms-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/bank-of-ireland/atms-get.md
 x-common:
 - type: x-developer
   url: http://openbankingapis.io/ireland/bank-of-ireland
