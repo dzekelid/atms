@@ -13,9 +13,9 @@ x-alexaRank: ""
 tags:
 - UK Banks
 - ATMs
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/atms/master/_listings/bank-of-scotland/apis.yaml
+created: "2018-03-27"
+modified: "2018-03-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/bank-of-scotland/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Bank of Scotland
@@ -27,7 +27,7 @@ apis:
   tags: ATMs
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/atms/master/_listings/bank-of-scotland/atms-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/bank-of-scotland/atms-get.md
 x-common:
 - type: x-twitter
   url: https://twitter.com/AskBankOfScot
