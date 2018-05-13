@@ -29,7 +29,23 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/ulster-bank/atms-get.md
+- name: Ulster Bank Get ATMs
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can provide multiple ATMs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: ATMs
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/ulster-bank/atms-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/ulster-bank/atms-get-postman.md
 x-common:
+- type: x-twitter
+  url: https://twitter.com/ulsterbank_help
+- type: x-website
+  url: https://digital.ulsterbank.co.uk/
 - type: x-twitter
   url: https://twitter.com/ulsterbank_help
 - type: x-website
