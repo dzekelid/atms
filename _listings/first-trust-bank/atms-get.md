@@ -1,10 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: First Trust Bank
-  description: This is the Open Banking driven set of APIs for First Trust Bank. Providing
-    a machine readable definition of what is available via their Open Banking set
-    of APIs.
+  title: First Trust Bank (Open Banking) Get ATMs
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can provide multiple ATMs.
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist
