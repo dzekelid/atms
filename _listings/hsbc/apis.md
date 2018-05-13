@@ -32,7 +32,27 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/hsbc/atms-get.md
+- name: HSBC Get ATMs
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can provide multiple ATMs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png
+  humanURL: https://hsbc.com
+  baseURL: https://api.hsbc.com/open-banking/v2.1/
+  tags: ATMs
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/hsbc/atms-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/hsbc/atms-get-postman.md
 x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/hsbc
+- type: x-twitter
+  url: https://twitter.com/HSBC
+- type: x-developer
+  url: https://developer.hsbc.com
+- type: x-website
+  url: https://hsbc.com
 - type: x-crunchbase
   url: https://crunchbase.com/organization/hsbc
 - type: x-twitter
