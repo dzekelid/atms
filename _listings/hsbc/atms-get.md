@@ -1,9 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: HSBC
-  description: This is an OpenAPI definition for the standard set of Open Banking
-    (http://openbankingapis.io/) APIs for HSBC.
+  title: HSBC Get ATMs
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can provide multiple ATMs.
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist
