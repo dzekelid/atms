@@ -4,7 +4,7 @@ description: This is a repository of atms APIs, self-contained as a Github repos
   with HTML and YAML representations of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/atms.png
 created: "2018-02-24"
-modified: "2018-05-20"
+modified: "2018-06-17"
 url: http://atms.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
@@ -16,6 +16,10 @@ include:
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/first-trust-bank/apis.yaml
 - name: Santander Bank
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/santander-bank/apis.yaml
+- name: Danske Bank
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/danske-bank/apis.yaml
+- name: NatWest
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/natwest/apis.yaml
 - name: Ulster Bank
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/ulster-bank/apis.yaml
 - name: Lloyds Bank
@@ -30,6 +34,8 @@ include:
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/bank-of-ireland/apis.yaml
 - name: Bank of Scotland
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/bank-of-scotland/apis.yaml
+- name: Royal Bank of Scotland
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/royal-bank-of-scotland/apis.yaml
 - name: HSBC
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/hsbc/apis.yaml
 maintainers:

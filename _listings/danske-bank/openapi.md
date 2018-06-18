@@ -1,17 +1,17 @@
 ---
 swagger: "2.0"
-x-collection-name: Bank of Scotland
+x-collection-name: Danske Bank
 x-complete: 1
 info:
-  title: Bank of Scotland
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-the-bank-of-scotland-
+  title: Danske Bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-danske-bank-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist
     url: https://apievangelist.com
     email: info@apievangelist.com
   version: 1.0.0
-host: api.bankofscotland.co.uk
+host: obp-data.danskebank.com
 basePath: open-banking/v2.1/
 schemes:
 - http
