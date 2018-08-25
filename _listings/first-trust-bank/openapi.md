@@ -19,17 +19,4 @@ produces:
 - application/json
 consumes:
 - application/json
-paths:
-  atms/:
-    get:
-      summary: Get ATMs
-      description: This endpoint can contain multiple brands owned by a particular
-        banking group. Each brand can provide multiple ATMs.
-      operationId: getATMS
-      x-api-path-slug: atms-get
-      responses:
-        200:
-          description: OK
-      tags:
-      - ATMs
 ---

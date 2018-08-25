@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/bank-of-ireland/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Bank of Ireland - Get Atms
-  x-api-slug: atms-get
-  description: This endpoint can contain multiple brands owned by a particular banking
-    group. Each brand can provide multiple ATMs.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-ireland.jpg
-  humanURL: https://www.bankofireland.com/
-  baseURL: https://openapi.bankofireland.com/open-banking/v2.1/
-  tags: UK Banks, ATMs, API Provider, UK Banks, Profiles, General Data, Relative Data,
-    Banking
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/bank-of-ireland/atms-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/bank-of-ireland/atms-get-openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://bandsintown.api.gallery.streamdata.io

@@ -16,20 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/nationwide-building-society/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Nationwide Building Society - Get ATMs
-  x-api-slug: atms-get
-  description: This endpoint can contain multiple brands owned by a particular banking
-    group. Each brand can provide multiple ATMs.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nationwide-building-society.png
-  humanURL: https://www.nationwide.co.uk/
-  baseURL: https://openapi.nationwide.co.uk/open-banking/v2.1/
-  tags: UK Banks, ATMs, API Provider, Profiles, General Data, Relative Data, Banking
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/nationwide-building-society/atms-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/nationwide-building-society/atms-get-openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://national.snow.and.ice.data.center.api.gallery.streamdata.io

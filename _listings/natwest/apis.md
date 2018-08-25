@@ -16,20 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/natwest/apis.md
 specificationVersion: "0.14"
-apis:
-- name: NatWest - Get ATMs
-  x-api-slug: atms-get
-  description: This endpoint can contain multiple brands owned by a particular banking
-    group. Each brand can provide multiple ATMs.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png
-  humanURL: https://personal.natwest.com/personal.html
-  baseURL: https://openapi.natwest.com/open-banking/v2.1/
-  tags: UK Banks, API Provider, Profiles, General Data, Relative Data, Banking
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/natwest/atms-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/natwest/atms-get-openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://nationwide.building.society.api.gallery.streamdata.io
