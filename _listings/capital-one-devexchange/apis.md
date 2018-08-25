@@ -8,50 +8,41 @@ description: What unites us all is a desire to create better end customer experi
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
 x-kinRank: "9"
 x-alexaRank: "0"
-tags: ATMS
-created: "2018-06-25"
-modified: "2018-06-25"
+tags: ATMs
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/capital-one-devexchange/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Capital One DevExchange Get all ATMs
-  x-api-slug: capital-one-devexchange
+- name: Capital One DevExchange - Get all ATMs
+  x-api-slug: atms-get
   description: Returns all of the Capital One ATMs in the speified search area.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
   humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com////atms
-  tags: Banks,Atms
+  baseURL: https://api.reimaginebanking.com//
+  tags: US Bank, API Provider, Profiles, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/capital-one-devexchange/atms-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/capital-one-devexchange/atms-get-openapi.md
-- name: Capital One DevExchange Get ATM by id
-  x-api-slug: capital-one-devexchange
+- name: Capital One DevExchange - Get ATM by id
+  x-api-slug: atmsid-get
   description: Returns the ATM with the specific id
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
   humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com////atms/{id}
-  tags: Banks,Atms
+  baseURL: https://api.reimaginebanking.com//
+  tags: US Bank, API Provider, Profiles, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/capital-one-devexchange/atmsid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/capital-one-devexchange/atmsid-get-openapi.md
-- name: Capital One DevExchange
-  x-api-slug: capital-one-devexchange
-  description: What unites us all is a desire to create better end customer experiences.
-    Were building a full suite of tools and technology that make essential things
-    in peoples everyday life &ndash; money, finances, identity &ndash; simpler for
-    you. Now is the time to join our beta program, and help us shape the future.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
-  humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com//
-  tags: ATMS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/capital-one-devexchange/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://callfire.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://capital.one.devexchange.stack.network
 - type: x-authentication
   url: https://developer.capitalone.com/platform-documentation/authorization-with-oauth-20/
 - type: x-blog

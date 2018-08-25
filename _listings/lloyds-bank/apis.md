@@ -10,41 +10,31 @@ description: Lloyds Bank plc is a British retail and commercial bank with branch
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png
 x-kinRank: "7"
 x-alexaRank: "4007"
-tags: ATMS
-created: "2018-06-25"
-modified: "2018-06-25"
+tags: ATMs
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/lloyds-bank/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Lloyds Bank Get ATMs
-  x-api-slug: lloyds-bank
+- name: Lloyds Bank - Get ATMs
+  x-api-slug: atms-get
   description: This endpoint can contain multiple brands owned by a particular banking
     group. Each brand can provide multiple ATMs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png
   humanURL: https://lloydsbank.com
-  baseURL: https://api.lloydsbank.com/open-banking/v2.1//atms/
-  tags: Atms
+  baseURL: https://api.lloydsbank.com/open-banking/v2.1/
+  tags: Financial Services, UK Banks, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/lloyds-bank/atms-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/lloyds-bank/atms-get-openapi.md
-- name: Lloyds Bank
-  x-api-slug: lloyds-bank
-  description: Lloyds Bank plc is a British retail and commercial bank with branches
-    across England and Wales. It has traditionally been considered one of the Big
-    Four clearing banks. The bank was founded in Birmingham in 1765. It expanded during
-    the nineteenth and twentieth centuries and took over a number of smaller banking
-    companies. In 1995 it merged with the Trustee Savings Bank and traded as Lloyds
-    TSB Bank plc between 1999 and 2013.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png
-  humanURL: https://lloydsbank.com
-  baseURL: https://api.lloydsbank.com/open-banking/v2.1/
-  tags: ATMS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/lloyds-bank/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://linkedin.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://lloyds.bank.stack.network
 - type: x-crunchbase
   url: https://crunchbase.com/organization/lloyds-tsb-group
 - type: x-developer
