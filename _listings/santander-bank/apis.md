@@ -12,11 +12,24 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-
 x-kinRank: "8"
 x-alexaRank: "11016"
 tags: ATMs
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/santander-bank/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Santander Bank - Get ATMs
+  x-api-slug: atms-get
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can provide multiple ATMs.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
+  humanURL: https://www.santanderbank.com
+  baseURL: https://openapi.santander.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/santander-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/santander-bank/atms-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://salesloft.api.gallery.streamdata.io

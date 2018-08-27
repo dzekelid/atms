@@ -11,11 +11,25 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-dans
 x-kinRank: "7"
 x-alexaRank: "55813"
 tags: ATMs
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/danske-bank/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Danske Bank - Get ATMs
+  x-api-slug: atms-get
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can provide multiple ATMs.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg
+  humanURL: https://danskebank.com
+  baseURL: https://obp-data.danskebank.com/open-banking/v2.1/
+  tags: Financial Services, Insurance, UK Banks, Danish Bank, API Provider, Profiles,
+    General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/danske-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/danske-bank/atms-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://crypto.compare.api.gallery.streamdata.io
