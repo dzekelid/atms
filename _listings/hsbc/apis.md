@@ -19,21 +19,7 @@ created: "2018-08-27"
 modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/hsbc/apis.md
 specificationVersion: "0.14"
-apis:
-- name: HSBC - Get ATMs
-  x-api-slug: atms-get
-  description: This endpoint can contain multiple brands owned by a particular banking
-    group. Each brand can provide multiple ATMs.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png
-  humanURL: https://hsbc.com
-  baseURL: https://api.hsbc.com/open-banking/v2.1/
-  tags: Financial Services, UK Banks, ATMs, API Provider, Profiles, General Data,
-    Relative Data, Banking
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/hsbc/atms-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/hsbc/atms-get-openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://hitbtc.api.gallery.streamdata.io

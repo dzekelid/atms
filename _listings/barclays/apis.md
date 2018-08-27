@@ -16,21 +16,7 @@ created: "2018-08-27"
 modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/barclays/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Barclays - Get ATMs
-  x-api-slug: atms-get
-  description: This endpoint can contain multiple brands owned by a particular banking
-    group. Each brand can provide multiple ATMs.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png
-  humanURL: https://barclays.com
-  baseURL: https://atlas.api.barclays/open-banking/v2.1/
-  tags: Financial Services, Finance, UK Banks, API Provider, Profiles, Relative Data,
-    General Data, Banking
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/barclays/atms-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/barclays/atms-get-openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://barchart.api.gallery.streamdata.io

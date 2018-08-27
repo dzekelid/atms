@@ -8,51 +8,6 @@
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "MasterCard",
-			"x-api-slug": "mastercard",
-			"description": "Mastercard is a leading global payments & technology company that connects consumers, businesses, merchants, issuers & governments around the world.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/366-mastercard.jpg",
-			"humanURL": "https://developer.mastercard.com/",
-			"baseURL": "https://eas5stl0.mastercard.int:13046//z0/core/v1",
-			"tags": "ATMs",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/mastercard/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Project Skyhook",
-			"x-api-slug": "project-skyhook",
-			"description": "The $999, portable, open source Bitcoin ATM",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11425-project-skyhook.jpg",
-			"humanURL": "http://projectskyhook.com/",
-			"baseURL": "https:///",
-			"tags": "ATMs",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/project-skyhook/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Capital One DevExchange",
-			"x-api-slug": "capital-one-devexchange",
-			"description": "What unites us all is a desire to create better end customer experiences. Were building a full suite of tools and technology that make essential things in peoples everyday life &ndash; money, finances, identity &ndash; simpler for you. Now is the time to join our beta program, and help us shape the future.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png",
-			"humanURL": "http://capitalone.com",
-			"baseURL": "https://api.reimaginebanking.com//",
-			"tags": "ATMs",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/capital-one-devexchange/openapi.md"
-				}
-			]
-		},
-		{
 			"name": "HSBC",
 			"x-api-slug": "hsbc",
 			"description": "HSBC Holdings plc is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong. It is the worlds seventh largest bank by total assets and the largest in Europe with total assets of US$2.374 trillion (as of December 2016). It was established in its present form in London in 1991 by The Hongkong and Shanghai Banking Corporation to act as a new group holding company. The origins of the bank lie mainly in Hong Kong and to a lesser extent in Shanghai, where branches were first opened in 1865. The HSBC name is derived from the initials of the Hongkong and Shanghai Banking Corporation. The company was first formally incorporated in 1866. The company continues to see both the United Kingdom and Hong Kong as its home markets.",
@@ -79,21 +34,6 @@
 				{
 					"type": "x-openapi-spec",
 					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/danske-bank/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Lloyds Bank",
-			"x-api-slug": "lloyds-bank",
-			"description": "Lloyds Bank plc is a British retail and commercial bank with branches across England and Wales. It has traditionally been considered one of the Big Four clearing banks. The bank was founded in Birmingham in 1765. It expanded during the nineteenth and twentieth centuries and took over a number of smaller banking companies. In 1995 it merged with the Trustee Savings Bank and traded as Lloyds TSB Bank plc between 1999 and 2013.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png",
-			"humanURL": "https://lloydsbank.com",
-			"baseURL": "https://api.lloydsbank.com/open-banking/v2.1/",
-			"tags": "ATMs",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/lloyds-bank/openapi.md"
 				}
 			]
 		},
@@ -143,21 +83,6 @@
 			]
 		},
 		{
-			"name": "Allied Irish Bank",
-			"x-api-slug": "allied-irish-bank",
-			"description": "Allied Irish Banks (AIB) is one of the so-called Big Four commercial banks in Ireland. AIB offers a full range of personal and corporate banking services. AIB Capital Markets is the division of the company that offers international banking and treasury operations. The bank also offers a range of general insurance products such as home, travel, and health insurance. It offers life assurance and pensions through its tied agency with Irish Life Assurance plc.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg",
-			"humanURL": "https://aibgb.co.uk/",
-			"baseURL": "https://openapi.aibgb.co.uk/open-banking/v2.1/",
-			"tags": "ATMs",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/allied-irish-bank/openapi.md"
-				}
-			]
-		},
-		{
 			"name": "Santander Bank",
 			"x-api-slug": "santander-bank",
 			"description": "Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary of Spanish Santander Group. It is based in Boston and its principal market is the northeastern United States. It has $54.7 billion in deposits, operates about 650 retail banking offices and over 2,000 ATMs, and employs approximately 9,800 people. It offers an array of financial services and products including retail banking, mortgages, corporate banking, cash management, credit card, capital markets, trust and wealth management, and insurance.",
@@ -199,21 +124,6 @@
 				{
 					"type": "x-openapi-spec",
 					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/ulster-bank/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Coutts",
-			"x-api-slug": "coutts",
-			"description": "Coutts /??ku?ts/ is a private bank and wealth manager, founded in 1692. It is the seventh oldest bank in the world and its international arm was sold to Union Bancaire Priv&eacute;e in March 2015. It has been owned by the Royal Bank of Scotland Group (RBS) since 2000, when RBS purchased its parent, NatWest. Coutts formed part of RBSs private banking division. During its time with RBS, it acquired Z&uuml;rich-based Bank von Ernst &amp; Cie and in 2008, Coutts Bank von Ernst and other Coutts International subsidiaries became RBS Coutts Bank. These traded as RBS Coutts International to align them with the parent RBS Group until 2011, when RBS Coutts was renamed Coutts &amp; Co. Limited.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Coutts-logo.jpg",
-			"humanURL": "https://www.coutts.com/",
-			"baseURL": "https://openapi.coutts.com/open-banking/v2.1/",
-			"tags": "ATMs",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/coutts/openapi.md"
 				}
 			]
 		},
@@ -281,28 +191,12 @@
 	"tags": "ATMs",
 	"include": [
 		{
-			"name": "MasterCard",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/mastercard/apis.yaml"
-		},
-		{
-			"name": "Project Skyhook",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/project-skyhook/apis.yaml"
-		},
-		{
-			"name": "Capital One DevExchange",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/capital-one-devexchange/apis.yaml"
-		},
-		{
 			"name": "HSBC",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/hsbc/apis.yaml"
 		},
 		{
 			"name": "Danske Bank",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/danske-bank/apis.yaml"
-		},
-		{
-			"name": "Lloyds Bank",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/lloyds-bank/apis.yaml"
 		},
 		{
 			"name": "Barclays",
@@ -317,10 +211,6 @@
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/first-trust-bank/apis.yaml"
 		},
 		{
-			"name": "Allied Irish Bank",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/allied-irish-bank/apis.yaml"
-		},
-		{
 			"name": "Santander Bank",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/santander-bank/apis.yaml"
 		},
@@ -331,10 +221,6 @@
 		{
 			"name": "Ulster Bank",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/ulster-bank/apis.yaml"
-		},
-		{
-			"name": "Coutts",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/atms/master/_listings/coutts/apis.yaml"
 		},
 		{
 			"name": "Halifax Bank",
